@@ -1,0 +1,19 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+@font-face {
+    font-family: "Hiekka";
+    src: url("../fonts/Hiekka.otf");
+}
+
+.starter-template h1, h2{
+    font-family: "Hiekka";
+}
+
+
+
